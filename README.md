@@ -1,6 +1,6 @@
 How well do you know F.R.I.E.N.D.S ?
 
-A CLI Quiz App to check how much you know about the popular sitcom F.R.I.E.N.D.S
+A CLI Quiz App to check how much you know about the popular sitcom F.R.I.E.N.D.S! Hosted on repl.it
 
 The app asks for the user's name and welcomes the user with a Hello Message. After that,
 the app poses questions to the user to which the user has to respond by pressing the key
